@@ -1,0 +1,7 @@
+[DEFAULT]
+#Value 1 setting
+VALUE1=100
+
+#Value 2 setting
+VALUE2=110
+
